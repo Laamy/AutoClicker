@@ -12,7 +12,9 @@ This concept version of the AutoClicker is provided as-is, without any guarantee
 
 # PulseCursor
 
-For users seeking a more advanced and actively maintained AutoClicker solution, we recommend exploring PulseCursor. PulseCursor offers comprehensive features for recoil adjustment and auto-clicking, along with ongoing updates and support. To access PulseCursor and unlock its advanced capabilities, please visit the official PulseCursor discord & buy access: https://yeemi.tebex.io/package/6103715
+For users seeking a more advanced and actively maintained AutoClicker solution, we recommend exploring PulseCursor. PulseCursor offers comprehensive features for recoil adjustment and auto-clicking, along with ongoing updates and support. To access PulseCursor and unlock its advanced capabilities, please visit the official PulseCursor discord & buy access:
+
+https://yeemi.tebex.io/package/6103715
 
 # Download
 
