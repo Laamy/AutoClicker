@@ -109,6 +109,8 @@
     <Compile Include="OverlayKit\Keymap\Keymap.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SDK\Game.cs" />
+    <Compile Include="CBridge.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
